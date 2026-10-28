@@ -1,0 +1,32 @@
+{
+  "manifest_version": "1.0",
+  "org": "huggingface",
+  "repo": "ipython-harness",
+  "versions": [
+    {
+      "commit": "33e4bb042ae91a2d2042d67e553440786f22b8c8",
+      "parsed_at": "2026-10-28T14:19:37.065942+00:00",
+      "filetree": "filetree/33e4bb042ae91a2d2042d67e553440786f22b8c8.nq.gz",
+      "blobs": [
+        "blob/3cab65d0fde14f982fcb6646692bb7c98be3d990.nq.gz",
+        "blob/0af73bc09fd134344094359cdc0dc25776439b96.nq.gz",
+        "blob/0804c625ba2e2530d1e1f8a737c95f578d753dc5.nq.gz",
+        "blob/37e0eed3034d8ee4c7664b55944cf64d8b0e941b.nq.gz",
+        "blob/759d10b9e56139c8eca3f388bcc675bb66075c51.nq.gz",
+        "blob/3e95b719050df0be96da5d3a8bc40c769328777b.nq.gz",
+        "blob/2186bb9cc937d5dacd35419f1a5c0b6f9523df4b.nq.gz",
+        "blob/783d513fccdf202e8668a195815458418ec72568.nq.gz",
+        "blob/d2e5b64fe1828fed6611b13203cf61281f2268ce.nq.gz",
+        "blob/e282e5460a1477e10093ba86cdf2feca50c89206.nq.gz",
+        "blob/d723f0e17369e984b3507e2f67d58ad10abdc0f1.nq.gz",
+        "blob/35833c790610cc9af3d1ff97c2b6b911bb039e98.nq.gz",
+        "blob/482158174d651950e814fc74715b9cea5599535c.nq.gz",
+        "blob/64ac73fab4bd050b776895db16ffbf5761e4f24b.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
