@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/huggingface/ipython-harness/commit/33e4bb042ae91a2d2042d67e553440786f22b8c8",
       "git:hexsha": "33e4bb042ae91a2d2042d67e553440786f22b8c8",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
